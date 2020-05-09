@@ -4,6 +4,11 @@ No code is the best way to write secure and reliable applications. Write nothing
 
 ## Getting Started
 
+### Install
+```
+
+```
+
 Start by not writing any code.
 
 ```
